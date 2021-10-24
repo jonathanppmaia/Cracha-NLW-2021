@@ -15,12 +15,3 @@
 ✅CSS3</br>
 ✅Javascript</br>
 
-## 👨🏻‍💻AUTOR
-
-<a href="https://github.com/jonathanppmaia" style="align: center" width="90px">
-  <a href="https://github.com/djonathanppmaia" style="align: center" width="90px">
-    <a href="https://github.com/jonathanppmaia" style="align: center" width="90px">  
-      <p align="center">
- <img src="https://avatars.githubusercontent.com/u/90557322?v=4" width="200" alt="Image doJonathan Maia">
-      </br>Davyd Cristiano
-</p>
