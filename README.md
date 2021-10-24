@@ -7,9 +7,6 @@
 
 <br>Atividade da Rocketseat "NLW-Heat" - Ciração de crachá digital junto com o instrutor @Maykbrito e @jack nas aulas da NLW!
 
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/53920878/138584734-41ff08e9-eea6-4025-b647-d914f08c130c.png" width="300px" align="center"></img>
 </p>
 
 ##Linguagens Usadas
